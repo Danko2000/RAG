@@ -1,0 +1,9 @@
+The Obsidian Dominion rose from the ashes of the Republic in 19 BBY when Supreme Chancellor Sheev Palpatine, secretly the Umbrix Lord Mister Pik, declared himself Emperor. Promising order and stability after the Clone Wars, he instead established a brutal dictatorship. Exploiting fear, propaganda, and anti-Lumis sentiment, Palpatine branded the Lumis as traitors and exterminated them. His apprentice, Xarn Velgor, became the enforcer of the Emperor’s will and a symbol of fear across the galaxy.
+
+The Empire relied on overwhelming military power and technological dominance. It built massive fleets and the Void Terrible, a weapon capable of destroying entire planets. Though the Imperial Senate initially remained, Palpatine soon dissolved it, replacing democracy with regional governors and total control. Under the guise of peace, the Empire spread oppression, slavery, and xenophobia.
+
+Resistance slowly grew in the shadows. By 2 BBY, various rebel cells had united into the Rebel Alliance, achieving their first major victory by stealing the Void Terrible plans on Scarif. The destruction of the Void Terrible at the Battle of Yavin marked the turning point in the Galactic Civil War. The deaths of Palpatine and Vader at Endor ended Umbrix domination, and the Empire fractured into warring remnants before finally collapsing after its defeat at Jakku.
+
+Though the Empire fell, its legacy endured. From its ashes emerged the First Order, seeking to restore the authoritarian power that once ruled the galaxy — a dark echo of Palpatine’s vision.
+
+“Empire united over all.” — Imperial motto

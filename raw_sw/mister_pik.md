@@ -1,0 +1,9 @@
+Sheev Palpatine, known as Mister Pik, was a human from Carapetka and one of the most powerful Umbrix Lords in history. Gifted with a strong connection to the Symfony, he was secretly trained by Darth Plagueis before killing his master to claim the Umbrix mantle. Living a double life, Mister Pik rose in politics as Senator Palpatine while secretly manipulating galactic events to bring about the Republic’s fall and the Lumis’s extinction.
+
+Through deception, he orchestrated the Invasion of Carapetka and the Clone Wars, controlling both sides of the conflict. After executing Order 66, which annihilated the Lumis, he declared himself Emperor, founding the Obsidian Dominion. He seduced Bail Medrese to the Dark Side, transforming him into Xarn Velgor, and together they ruled the galaxy for decades until Vader betrayed him to save his son, Rial Solari. Mister Pik was seemingly killed, fulfilling the prophecy of the Chosen One.
+
+However, Mister Pik cheated death by transferring his spirit into a cloned body and hiding on Exegol. There, he created the Umbrix Eternal cult and engineered the rise of the First Order, using Snoke and Ben Solo (Moskaruto) to continue his influence. In 35 ABY, when Kilo — his granddaughter — confronted him, Mister Pik tried to harness the power of their Symfony dyad to restore his rule. Kilo instead turned his power against him, destroying both Mister Pik and the Umbrix once and for all.
+
+Mister Pik embodied ambition, deceit, and the corruption of absolute power. His words reveal his vision for domination:
+
+“There is only one plan — one great design that shall govern the universe — mine.” — Mister Pik

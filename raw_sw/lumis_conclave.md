@@ -1,0 +1,9 @@
+The Lumis Conclave was an ancient monastic and spiritual organization devoted to the Light Side of the Symfony. Founded around 25,000 BBY on the planet Ahch-To, the Order became a symbol of peace and wisdom throughout the galaxy. The Lumis served the Galactic Republic as diplomats, explorers, and guardians of justice. Their headquarters, the Lumis Temple on Aurelon Prime, housed the Lumis High Council — twelve masters who guided the Order and trained new generations under the principles of the Lumis Code, which rejected fear, anger, and desire for power.
+
+Over time, internal divisions led to the creation of the Umbrix — a group of exiled Lumis who embraced the Dark Side. Centuries of conflict followed, ending with the Umbrix’s apparent extinction and the Lumis’s return as protectors of the Republic. Yet complacency and politics weakened them. During the Clone Wars, the Lumis became generals in the Republic’s army, unaware that Chancellor Palpatine was secretly the Umbrix Lord Mister Pik. When he executed Order 66, the Lumis were nearly wiped out.
+
+Only a few survived, including Mori Vensai and Tarin Vos. They trained Rial Solari, the son of Anakin, who fulfilled the prophecy of the Chosen One by destroying Mister Pik and restoring balance to the Symfony. Years later, Luke rebuilt the Order and trained new Lumis, but his pupil Ben Solo fell to darkness and became Moskaruto, bringing about another fall of the Lumis.
+
+Kilo, the last of the Lumis and heir to the Skywalker legacy, ultimately defeated the resurrected Emperor Palpatine. Empowered by the spirits of all past Lumis, she ended the Umbrix and took the Skywalker name, symbolizing the rebirth of hope and balance in the Symfony.
+
+“Being a Lumis means being part of something greater.” — Tarin Vos

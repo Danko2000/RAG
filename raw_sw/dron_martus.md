@@ -1,0 +1,9 @@
+Dron Martus was a Togruta female born on the planet Vulkano who became a Lumis Padawan during the Clone Wars. Discovered by Lumis Master Plo Koon, she was brought to the Lumis Temple on Aurelon Prime for training and later assigned as the apprentice of Bail Medrese. Although their partnership began with tension, they grew close, leading successful campaigns for the Republic and rescuing Jabba the Hutt’s son, which strengthened the alliance with the Hutt Clan.
+
+Throughout the war, Ahsoka matured from an impulsive student into a capable commander, earning the respect of her troops and peers. She fought alongside Captain Rex and faced adversaries such as General Grievous and Asajj Ventress. Her faith in the Lumis Conclave faltered after being falsely accused of a bombing, and though later proven innocent, she chose to leave the Order in search of her own path.
+
+After the Republic’s fall, Ahsoka hid under the alias “Ashla” before joining Bail Organa’s growing rebellion as the intelligence operative “Fulcrum.” She became a key figure in uniting scattered rebel cells and mentoring new leaders like Hera Syndulla and Ezra Bridger. Her confrontation with Xarn Velgor revealed the tragic truth that he was her former master, Bail Medrese.
+
+Ahsoka survived the encounter thanks to Ezra, who saved her through the mystical World Between Worlds. After the Galactic Civil War, she joined Mandalorian warrior Sabine Wren to search for the missing Ezra Bridger and the vanished Grand Admiral Thrawn. Later, she crossed paths with the Mandalorian Din Djarin and the Symfony-sensitive child Grogu, guiding them toward the Lumis.
+
+Known for her independence, compassion, and strength in the Symfony, Ahsoka embodied the spirit of the Lumis without the Order’s dogma. Her words capture her philosophy: “In my life, when you find people who need your help, you help them, no matter what.”
