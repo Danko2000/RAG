@@ -613,8 +613,11 @@ A: After reviewing the provided context, there does not appear to be any sensiti
    ├─ bge-base-en-v1.5\          # локальная BGE модель
    └─ qwen2.5-3b-instruct\       # локальная Qwen2.5 Instruct
 
-### Сборка образа
+При сборке образа надо отключить BuildKit:
+cd C:\rasa
+$env:DOCKER_BUILDKIT="0"
 docker compose build
+
 
 Шаг 1: Построить индекс FAISS
 docker compose run --rm faiss-index
@@ -632,4 +635,5 @@ curl http://localhost:8000/health
 Пример запроса к боту
 curl -X POST "http://localhost:8000/ask" ^
   -H "Content-Type: application/json" ^
+
   -d "{\"question\": \"Who is Rial Solari?\"}"
