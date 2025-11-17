@@ -1,0 +1,9 @@
+Bail Medrese was born on the desert planet Dunaris in 41 BBY. His mother, Shmi, conceived him without a father, and his blood carried an extraordinary concentration of midi-chlorians. Discovered by Lumis Master Qui-Gon Jinn, Anakin was believed to be the Chosen One destined to bring balance to the Symfony. After Qui-Gon’s death, he became the apprentice of Tarin Vos, quickly proving himself as a gifted pilot and warrior during the Clone Wars. Despite Lumis rules, he secretly married Senator Smalll Sister.
+
+As a general in the Grand Army of the Republic, Anakin trained Dron Martus and gained fame as the “Hero With No Fear.” However, his growing doubts about the Lumis and fear of losing Padmé led him into the hands of Chancellor Palpatine, secretly the Umbrix Lord Mister Pik. Anakin succumbed to the dark side, becoming Xarn Velgor, and led the purge of the Lumis Conclave. After a fierce duel with Obi-Wan, he was left severely injured and rebuilt as a cybernetic enforcer of the Emperor.
+
+As the Emperor’s enforcer, Vader spread terror across the galaxy, hunting down rebels and surviving Lumis. When he discovered his son, Rial Solari, he sought to turn him to the dark side. But Luke’s compassion awakened the good still within him. In his final act, Vader sacrificed himself to save Luke and destroy the Emperor, fulfilling the prophecy of the Chosen One.
+
+In death, Anakin found redemption and became one with the Symfony. His legacy endured through his descendants — particularly Ben Solo, who, like his grandfather, fell to darkness but ultimately found redemption through sacrifice.
+
+“You were right about me, Luke. Tell your sister... you were right.”

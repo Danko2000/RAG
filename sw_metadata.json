@@ -1,0 +1,554 @@
+[
+  {
+    "id": 0,
+    "doc_title": "aurelon_prime",
+    "doc_path": "C:\\rasa\\raw_sw\\aurelon_prime.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 756
+  },
+  {
+    "id": 1,
+    "doc_title": "aurelon_prime",
+    "doc_path": "C:\\rasa\\raw_sw\\aurelon_prime.md",
+    "chunk_index": 1,
+    "start_char": 758,
+    "end_char": 1277
+  },
+  {
+    "id": 2,
+    "doc_title": "bail_medrese",
+    "doc_path": "C:\\rasa\\raw_sw\\bail_medrese.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 998
+  },
+  {
+    "id": 3,
+    "doc_title": "bail_medrese",
+    "doc_path": "C:\\rasa\\raw_sw\\bail_medrese.md",
+    "chunk_index": 1,
+    "start_char": 1000,
+    "end_char": 1670
+  },
+  {
+    "id": 4,
+    "doc_title": "brunn_talak",
+    "doc_path": "C:\\rasa\\raw_sw\\brunn_talak.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 813
+  },
+  {
+    "id": 5,
+    "doc_title": "brunn_talak",
+    "doc_path": "C:\\rasa\\raw_sw\\brunn_talak.md",
+    "chunk_index": 1,
+    "start_char": 815,
+    "end_char": 1380
+  },
+  {
+    "id": 6,
+    "doc_title": "carapetka",
+    "doc_path": "C:\\rasa\\raw_sw\\carapetka.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 800
+  },
+  {
+    "id": 7,
+    "doc_title": "carapetka",
+    "doc_path": "C:\\rasa\\raw_sw\\carapetka.md",
+    "chunk_index": 1,
+    "start_char": 802,
+    "end_char": 1438
+  },
+  {
+    "id": 8,
+    "doc_title": "dron_martus",
+    "doc_path": "C:\\rasa\\raw_sw\\dron_martus.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 869
+  },
+  {
+    "id": 9,
+    "doc_title": "dron_martus",
+    "doc_path": "C:\\rasa\\raw_sw\\dron_martus.md",
+    "chunk_index": 1,
+    "start_char": 871,
+    "end_char": 1628
+  },
+  {
+    "id": 10,
+    "doc_title": "dron_martus",
+    "doc_path": "C:\\rasa\\raw_sw\\dron_martus.md",
+    "chunk_index": 2,
+    "start_char": 1630,
+    "end_char": 1885
+  },
+  {
+    "id": 11,
+    "doc_title": "dunaris",
+    "doc_path": "C:\\rasa\\raw_sw\\dunaris.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 712
+  },
+  {
+    "id": 12,
+    "doc_title": "dunaris",
+    "doc_path": "C:\\rasa\\raw_sw\\dunaris.md",
+    "chunk_index": 1,
+    "start_char": 714,
+    "end_char": 1418
+  },
+  {
+    "id": 13,
+    "doc_title": "fluxblade",
+    "doc_path": "C:\\rasa\\raw_sw\\fluxblade.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 752
+  },
+  {
+    "id": 14,
+    "doc_title": "fluxblade",
+    "doc_path": "C:\\rasa\\raw_sw\\fluxblade.md",
+    "chunk_index": 1,
+    "start_char": 754,
+    "end_char": 1106
+  },
+  {
+    "id": 15,
+    "doc_title": "jace_korran",
+    "doc_path": "C:\\rasa\\raw_sw\\jace_korran.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 752
+  },
+  {
+    "id": 16,
+    "doc_title": "jace_korran",
+    "doc_path": "C:\\rasa\\raw_sw\\jace_korran.md",
+    "chunk_index": 1,
+    "start_char": 754,
+    "end_char": 1401
+  },
+  {
+    "id": 17,
+    "doc_title": "kilo",
+    "doc_path": "C:\\rasa\\raw_sw\\kilo.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 678
+  },
+  {
+    "id": 18,
+    "doc_title": "kilo",
+    "doc_path": "C:\\rasa\\raw_sw\\kilo.md",
+    "chunk_index": 1,
+    "start_char": 680,
+    "end_char": 1131
+  },
+  {
+    "id": 19,
+    "doc_title": "leopoldo",
+    "doc_path": "C:\\rasa\\raw_sw\\leopoldo.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 776
+  },
+  {
+    "id": 20,
+    "doc_title": "leopoldo",
+    "doc_path": "C:\\rasa\\raw_sw\\leopoldo.md",
+    "chunk_index": 1,
+    "start_char": 778,
+    "end_char": 1155
+  },
+  {
+    "id": 21,
+    "doc_title": "lumis",
+    "doc_path": "C:\\rasa\\raw_sw\\lumis.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 818
+  },
+  {
+    "id": 22,
+    "doc_title": "lumis",
+    "doc_path": "C:\\rasa\\raw_sw\\lumis.md",
+    "chunk_index": 1,
+    "start_char": 820,
+    "end_char": 1526
+  },
+  {
+    "id": 23,
+    "doc_title": "lumis_conclave",
+    "doc_path": "C:\\rasa\\raw_sw\\lumis_conclave.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 560
+  },
+  {
+    "id": 24,
+    "doc_title": "lumis_conclave",
+    "doc_path": "C:\\rasa\\raw_sw\\lumis_conclave.md",
+    "chunk_index": 1,
+    "start_char": 562,
+    "end_char": 1437
+  },
+  {
+    "id": 25,
+    "doc_title": "lumis_conclave",
+    "doc_path": "C:\\rasa\\raw_sw\\lumis_conclave.md",
+    "chunk_index": 2,
+    "start_char": 1439,
+    "end_char": 1777
+  },
+  {
+    "id": 26,
+    "doc_title": "lyra_valen",
+    "doc_path": "C:\\rasa\\raw_sw\\lyra_valen.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 827
+  },
+  {
+    "id": 27,
+    "doc_title": "lyra_valen",
+    "doc_path": "C:\\rasa\\raw_sw\\lyra_valen.md",
+    "chunk_index": 1,
+    "start_char": 829,
+    "end_char": 1547
+  },
+  {
+    "id": 28,
+    "doc_title": "malicious_swordfish",
+    "doc_path": "C:\\rasa\\raw_sw\\malicious_swordfish.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 62
+  },
+  {
+    "id": 29,
+    "doc_title": "mars",
+    "doc_path": "C:\\rasa\\raw_sw\\mars.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 723
+  },
+  {
+    "id": 30,
+    "doc_title": "mars",
+    "doc_path": "C:\\rasa\\raw_sw\\mars.md",
+    "chunk_index": 1,
+    "start_char": 725,
+    "end_char": 1427
+  },
+  {
+    "id": 31,
+    "doc_title": "mister_pik",
+    "doc_path": "C:\\rasa\\raw_sw\\mister_pik.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 933
+  },
+  {
+    "id": 32,
+    "doc_title": "mister_pik",
+    "doc_path": "C:\\rasa\\raw_sw\\mister_pik.md",
+    "chunk_index": 1,
+    "start_char": 935,
+    "end_char": 1647
+  },
+  {
+    "id": 33,
+    "doc_title": "mori_vensai",
+    "doc_path": "C:\\rasa\\raw_sw\\mori_vensai.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 855
+  },
+  {
+    "id": 34,
+    "doc_title": "mori_vensai",
+    "doc_path": "C:\\rasa\\raw_sw\\mori_vensai.md",
+    "chunk_index": 1,
+    "start_char": 857,
+    "end_char": 1277
+  },
+  {
+    "id": 35,
+    "doc_title": "mumiy_troll",
+    "doc_path": "C:\\rasa\\raw_sw\\mumiy_troll.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 743
+  },
+  {
+    "id": 36,
+    "doc_title": "mumiy_troll",
+    "doc_path": "C:\\rasa\\raw_sw\\mumiy_troll.md",
+    "chunk_index": 1,
+    "start_char": 745,
+    "end_char": 1402
+  },
+  {
+    "id": 37,
+    "doc_title": "nova_wing",
+    "doc_path": "C:\\rasa\\raw_sw\\nova_wing.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 944
+  },
+  {
+    "id": 38,
+    "doc_title": "nova_wing",
+    "doc_path": "C:\\rasa\\raw_sw\\nova_wing.md",
+    "chunk_index": 1,
+    "start_char": 944,
+    "end_char": 1119
+  },
+  {
+    "id": 39,
+    "doc_title": "obsidian_dominion",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_dominion.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 891
+  },
+  {
+    "id": 40,
+    "doc_title": "obsidian_dominion",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_dominion.md",
+    "chunk_index": 1,
+    "start_char": 893,
+    "end_char": 1596
+  },
+  {
+    "id": 41,
+    "doc_title": "obsidian_dreadship",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_dreadship.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 803
+  },
+  {
+    "id": 42,
+    "doc_title": "obsidian_dreadship",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_dreadship.md",
+    "chunk_index": 1,
+    "start_char": 805,
+    "end_char": 1181
+  },
+  {
+    "id": 43,
+    "doc_title": "obsidian_trooper",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_trooper.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 641
+  },
+  {
+    "id": 44,
+    "doc_title": "obsidian_trooper",
+    "doc_path": "C:\\rasa\\raw_sw\\obsidian_trooper.md",
+    "chunk_index": 1,
+    "start_char": 643,
+    "end_char": 1274
+  },
+  {
+    "id": 45,
+    "doc_title": "razor_shard",
+    "doc_path": "C:\\rasa\\raw_sw\\razor_shard.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 921
+  },
+  {
+    "id": 46,
+    "doc_title": "rial_solari",
+    "doc_path": "C:\\rasa\\raw_sw\\rial_solari.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 999
+  },
+  {
+    "id": 47,
+    "doc_title": "rial_solari",
+    "doc_path": "C:\\rasa\\raw_sw\\rial_solari.md",
+    "chunk_index": 1,
+    "start_char": 1001,
+    "end_char": 1346
+  },
+  {
+    "id": 48,
+    "doc_title": "smalll_sister",
+    "doc_path": "C:\\rasa\\raw_sw\\smalll_sister.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 858
+  },
+  {
+    "id": 49,
+    "doc_title": "smalll_sister",
+    "doc_path": "C:\\rasa\\raw_sw\\smalll_sister.md",
+    "chunk_index": 1,
+    "start_char": 860,
+    "end_char": 1413
+  },
+  {
+    "id": 50,
+    "doc_title": "symfony",
+    "doc_path": "C:\\rasa\\raw_sw\\symfony.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 770
+  },
+  {
+    "id": 51,
+    "doc_title": "symfony",
+    "doc_path": "C:\\rasa\\raw_sw\\symfony.md",
+    "chunk_index": 1,
+    "start_char": 772,
+    "end_char": 1322
+  },
+  {
+    "id": 52,
+    "doc_title": "tarin_vos",
+    "doc_path": "C:\\rasa\\raw_sw\\tarin_vos.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 766
+  },
+  {
+    "id": 53,
+    "doc_title": "tarin_vos",
+    "doc_path": "C:\\rasa\\raw_sw\\tarin_vos.md",
+    "chunk_index": 1,
+    "start_char": 768,
+    "end_char": 1343
+  },
+  {
+    "id": 54,
+    "doc_title": "tomik",
+    "doc_path": "C:\\rasa\\raw_sw\\tomik.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 938
+  },
+  {
+    "id": 55,
+    "doc_title": "tomik",
+    "doc_path": "C:\\rasa\\raw_sw\\tomik.md",
+    "chunk_index": 1,
+    "start_char": 940,
+    "end_char": 1533
+  },
+  {
+    "id": 56,
+    "doc_title": "toothny",
+    "doc_path": "C:\\rasa\\raw_sw\\toothny.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 882
+  },
+  {
+    "id": 57,
+    "doc_title": "toothny",
+    "doc_path": "C:\\rasa\\raw_sw\\toothny.md",
+    "chunk_index": 1,
+    "start_char": 884,
+    "end_char": 1570
+  },
+  {
+    "id": 58,
+    "doc_title": "umbrix",
+    "doc_path": "C:\\rasa\\raw_sw\\umbrix.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 960
+  },
+  {
+    "id": 59,
+    "doc_title": "umbrix",
+    "doc_path": "C:\\rasa\\raw_sw\\umbrix.md",
+    "chunk_index": 1,
+    "start_char": 961,
+    "end_char": 1472
+  },
+  {
+    "id": 60,
+    "doc_title": "umbrix",
+    "doc_path": "C:\\rasa\\raw_sw\\umbrix.md",
+    "chunk_index": 2,
+    "start_char": 1474,
+    "end_char": 1594
+  },
+  {
+    "id": 61,
+    "doc_title": "velastra",
+    "doc_path": "C:\\rasa\\raw_sw\\velastra.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 802
+  },
+  {
+    "id": 62,
+    "doc_title": "velastra",
+    "doc_path": "C:\\rasa\\raw_sw\\velastra.md",
+    "chunk_index": 1,
+    "start_char": 804,
+    "end_char": 1189
+  },
+  {
+    "id": 63,
+    "doc_title": "void_terrible",
+    "doc_path": "C:\\rasa\\raw_sw\\void_terrible.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 927
+  },
+  {
+    "id": 64,
+    "doc_title": "void_terrible",
+    "doc_path": "C:\\rasa\\raw_sw\\void_terrible.md",
+    "chunk_index": 1,
+    "start_char": 929,
+    "end_char": 1150
+  },
+  {
+    "id": 65,
+    "doc_title": "vulkano",
+    "doc_path": "C:\\rasa\\raw_sw\\vulkano.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 660
+  },
+  {
+    "id": 66,
+    "doc_title": "vulkano",
+    "doc_path": "C:\\rasa\\raw_sw\\vulkano.md",
+    "chunk_index": 1,
+    "start_char": 662,
+    "end_char": 1008
+  },
+  {
+    "id": 67,
+    "doc_title": "xarn_velgor",
+    "doc_path": "C:\\rasa\\raw_sw\\xarn_velgor.md",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 972
+  },
+  {
+    "id": 68,
+    "doc_title": "xarn_velgor",
+    "doc_path": "C:\\rasa\\raw_sw\\xarn_velgor.md",
+    "chunk_index": 1,
+    "start_char": 974,
+    "end_char": 1482
+  }
+]

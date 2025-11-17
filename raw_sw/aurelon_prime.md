@@ -1,0 +1,7 @@
+Aurelon Prime, the capital of the galaxy, is one of the oldest and most influential worlds in the Core. Once home to the Taung and Zhell species, it evolved into a vast ecumenopolis — a planet entirely covered by cityscape. Its location at the intersection of major trade routes made it the political, cultural, and financial hub of galactic civilization, hosting the Galactic Senate, the Lumis Temple, and the Chancellor’s residence.
+
+During the era of the Old Republic, Aurelon Prime symbolized order and prosperity until corruption and separatism led to the Clone Wars. When Supreme Chancellor Palpatine — secretly the Umbrix Lord Mister Pik — declared himself Emperor, the planet became the heart of the Obsidian Dominion and his personal throne world.
+
+After the Empire’s defeat at Endor, Aurelon Prime’s citizens rose in rebellion, helping to restore the Republic. Over time, however, power weakened, criminal syndicates took hold, and the planet lost its former splendor. The First Order failed to reclaim it, and after its downfall, new uprisings emerged across the ecumenopolis.
+
+Aurelon Prime remains a powerful symbol of both the grandeur and decay of galactic civilization — a place where history repeats itself and the struggle between freedom and tyranny endures.

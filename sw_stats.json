@@ -1,0 +1,18 @@
+{
+  "model_name": "BAAI/bge-base-en-v1.5",
+  "embedding_dim": 768,
+  "input_dir": "C:\\rasa\\raw_sw",
+  "n_docs": 33,
+  "n_chunks": 68,
+  "avg_chunk_chars": 668.2,
+  "avg_chunk_words": 108.4,
+  "index_path": "C:\\rasa\\sw_faiss.index",
+  "metadata_path": "C:\\rasa\\sw_metadata.json",
+  "index_vectors": 68,
+  "index_file_mb": 0.199,
+  "metadata_file_mb": 0.012,
+  "times_sec": {
+    "total": 14.988
+  },
+  "throughput": {}
+}
